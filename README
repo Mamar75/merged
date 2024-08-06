@@ -1,0 +1,22 @@
+Objective: merging Compustat prices, market capitalization and accounting data with shares owned.
+
+(1) 'merge_compustat_shares_owned.py' will merge compustat from 1997 to 2024 with the current shares owned file.
+Output: pair_data.csv
+(2) 'select_pairs.ipynb' will remove all financial pairs.
+Output: pair_data_nf.csv
+(3) 'merge_pairs_data_accounting.py' will merge the dataset obtained in (2) with compustat quarterly observations
+for market capitalization and some accounting values such as the share owner equity. Will use a forward fill. In order
+to have a market capitalisation time series that starts in 1998 (and not 2006) it also adds the annual market
+capitalisation time series.
+Output: pair_data_nf_acc.csv
+(4) 'analyze.py' will analyze the dataset produced in (3).
+Output: nsv_description.csv
+
+Compustat provides quarterly market value from 2006 and annual market from 1998. It also provides the number common
+shares (CSHOC) issued from 1998 on a daily bases. In the compustat description it is written that "This item may differ
+from Common Shares Outstanding - Company (CSHO) and Common Shares Outstanding - Company - Quarterly (CSHOQ) for ADR
+companies. This item is collected as reported in the source, and is not adjusted for the ADR ratio, while CSHO and
+CSHOQ are adjusted for the ADR ratio." ADR stands for American Depositary Receipt. It is a certificate issued by U.S.
+bank representing shares in a foreign company's stock.
+
+

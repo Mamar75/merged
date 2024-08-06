@@ -1,0 +1,289 @@
+Common/Ordinary Equity - Total:
+
+    CEQ: Common Equity in Millions
+    CEQQ: Common Equity Quarterly in Millions
+
+    U.S. GAAP and Canadian IFRS Definition (Canadian GAAP Prior to January 1, 2011)
+    This item represents the common shareholders' interest in the company.
+
+    This item is a component of Shareholders' Equity - Total (SEQ).
+
+    This item is available for bank and industrial formats.
+
+    This item is the sum of
+
+    Common/Ordinary Stock (Capital) (CSTK)
+    Capital Surplus/Share Premium Reserve (CAPS)
+    Retained Earnings (RE)
+
+    less
+    Treasury Stock - Total (All Capital) (TSTK)
+    This item includes
+
+    Common stock outstanding, including treasury stock adjustments
+    Capital surplus
+    Retained earnings
+    Treasury stock adjustments for both common and nonredeemable preferred stock
+    This figure is not adjusted for excess liquidating value over carrying value of preferred stock or for intangibles.
+
+    This item is the sum of:
+
+    Common/Ordinary Stock (Capital) (CSTK)
+    Capital Surplus/Share Premium Reserve (CAPS)
+    Retained Earnings (RE)
+
+    less:
+    Treasury Stock - Total (All Capital) (TSTK)
+    International Definition
+    Industrial Definition
+    This item is a calculation derived from the Stockholders' Equity - Total section.
+
+    This is a supplementary Balance Sheet item.
+
+    This item includes unappropriated net profit (loss).
+
+    This item excludes
+
+    Other share capital with no equity participation
+    Participation rights certificates with no equity participation and dividends for pre-appropriation accounts
+    Preferred/preference capital, dividends for pre-appropriation accounts, and any further participation rights of holders
+    Preferred/preference dividends in arrears
+    Treasury stock
+    Treasury Stock Asset (TSCA)
+    United Kingdom This item includes Advance Corporation Tax on preferred/preference dividends in arrears.
+
+    Financial Services Definition
+    This item is a calculation derived from the Stockholders' Equity - Total section.
+
+    For pre-appropriation Balance Sheets, this item is the sum of:
+
+    Stockholders' Equity - Total
+    Unappropriated Net Profit (Liabilities)
+
+    less:
+    Dividends - Preferred/Preference
+    Dividends - Share Capital - Other
+    Participation Rights Certificates
+    Preferred Stock - Nonredeemable
+    Preferred Stock - Redeemable
+    Share Capital - Other
+    Treasury Stock (Assets)
+    Unappropriated Net Loss
+
+    For post-appropriation Balance Sheets, this item is the sum of:
+
+    Stockholders' Equity - Total
+
+    less:
+    Preferred Stock - Redeemable
+    Preferred Stock - Nonredeemable
+    Participation Rights Certificates
+    Share Capital - Other
+    Treasury Stock (Assets)
+    Bank and Thrift
+
+    There is an average value for banks and thrift.
+
+    The value represents the unweighted average of total book value for the year. For 1974 and succeeding years, the average is reported by the banks. For years prior to 1974, the average is a S&P Global Market Intelligence calculation.
+
+    There is also the unweighted average of total book value for the year, restated up to five years. This is a company-reported average, not a S&P Global Market Intelligence calculation. If an average figure is not reported by a company, the actual figure is used.
+
+
+Common/Ordinary Stock (Capital):
+
+    CSTK: Common Stock Capital in Millions
+    CSTKQ: Common Stock Capital Quarterly in Millions
+
+    U.S. GAAP and Canadian IFRS Definition (Canadian GAAP Prior to January 1, 2011)
+    This item is available for banks.
+
+    This item is a component of Common/Ordinary Equity - Total (CEQ).
+
+    This item represents the total par, carrying, or stated value of all common/ordinary capital.
+
+    Par usually equals the carrying value. However, when they are not identical, S&P Global Market Intelligence uses the carrying value to calculate this item.
+
+    This item includes:
+
+    Classes of common convertible into the main class of common. If convertible on a one-to-one basis, they are added together. If convertible on any other basis, the class is converted into the main class of common and the carrying value of the main class is applied to calculate Common/Ordinary Stock (Capital). Capital Surplus is adjusted by any residual.
+    Common stock subscriptions at par or carrying value and the excess of these subscriptions over par or carrying value.
+    Common treasury stock reported on the asset side of the Balance Sheet.
+    Common treasury stock reported as part of Stockholders' Equity at par or carrying value beginning in 1982 and 1986, first quarter on the annual and quarterly databases respectively.
+    Escrow shares when included in the earnings per share calculation.
+    Shares issued to Directors Benefits Trusts and Executive Trusts
+    ESOP adjustments related to "No Par" common stock
+    This item excludes:
+
+    Installments on common stock, included in Capital Surplus
+    Issuable stock, included in Retained Earnings
+    Special stock not convertible into common, included in Capital Surplus
+    ESOP obligations related to "Par" value common stock.
+    Tracking stocks, unless specific tracking stock entity is being updated.
+    Prior to fiscal period 1982, this item was reduced by the dollar amount of common treasury stock when presented as a reduction to equity on the Balance Sheet.
+
+    International Definition
+    Industrial Definition
+    This item is a component of Common/Ordinary Equity - Total (CEQ).
+
+    This item represents the total par, carrying, or stated value of all common/ordinary capital.
+
+    This item is a component of Stockholders' Equity - Total (SEQ).
+
+    This item includes:
+
+    Carrying value of common/ordinary treasury shares, when included with common/ordinary shares on the Balance Sheet
+    Classes of common/ordinary capital convertible into the main class of common/ordinary capital when:
+    Convertible on a one-to-one basis, they are added together
+    Convertible on any other basis, the class is converted into the main class of common/ordinary capital and the carrying value of the main class is applied to calculate common/ordinary capital
+    Common/ordinary share subscriptions, included at carrying value
+    Deferred common/ordinary capital
+    Escrow shares included in calculations of earnings per share
+    This item excludes:
+
+    Installments on common/ordinary shares, included in Capital Surplus/Share Premium Reserve (CAPS)
+    Issuable shares, included in Retained Earnings (RE)
+    Special shares, par value is included in Retained Earnings (RE) and excess over par is included in Capital Surplus/Share Premium Reserve (CAPS)
+    Treasury shares reported as an asset
+    Australia This item is usually reported net of discounts on shares.
+
+    Finland This item includes the par value of shares issued and any premium on the issue. S&P Global Market Intelligence includes the premium element in Capital Surplus/Share Premium Reserve (CAPS) and the par value of shares in Common/Ordinary Stock (Capital) (CSTK).
+
+    France This item includes investment certificates (certificats d'investissement).
+
+    Japan This item excludes common stock subscribed and advances on subscription.
+
+    Financial Services Definition
+    This item is a component of Stockholders' Equity - Total (SEQ).
+
+    This item includes:
+
+    Carrying value of common/ordinary treasury shares, when included with the common/ordinary shares on the Balance Sheet
+    Classes of common/ordinary capital convertible into the main class of common/ordinary capital
+    Common/ordinary share subscriptions, included at carrying value
+    Deferred common/ordinary capital
+    Escrow shares included in calculations of earnings per share
+    This item excludes:
+
+    Escrow shares excluded from calculations of earnings per share, included in Treasury Stock - All Capital - Total (TSTK)
+    Installments on common/ordinary shares, included in Capital Surplus/Share Premium Reserve (CAPS)
+    Issuable shares, included in Reserves - Distributable - Other (RVDO)
+    Special stock not convertible into common/ordinary stock, included in Share Capital - Other (SCO)
+    Treasury shares reported as an asset
+
+
+Liabilities - Total
+
+    LT: Liabilities Total in Millions
+    LTQ Liabilities Total Quarterly in Millions
+
+    U.S. GAAP and Canadian IFRS Definition (Canadian GAAP Prior to January 1, 2011)
+    This item represents current liabilities plus long-term debt plus other noncurrent liabilities, including deferred taxes and investment tax credit.
+
+    This item is a component of Assets - Total/Liabilities and Shareholders' Equity - Total (LSE).
+
+    This item is the sum of:
+
+    Current Liabilities - Total (LCT)
+    Deferred Taxes and Investment Tax Credit (TXDITC)
+    Liabilities - Other (LO)
+    Long-Term Debt - Total (DLTT)
+    International Definition
+    Financial Services Definition
+    This item represents the total value of all items reported in the Liabilities section. This item is available for banks.
+
+    This item is a component of Liabilities and Stockholders' Equity - Total.
+
+    This item is the sum of:
+
+    Acceptances Outstanding
+    Accounts Payable/Creditors - Trade
+    Deposits - Total - Banks
+    Deposits - Total - Customer
+    Foreign Exchange Liabilities
+    Liabilities - Other
+    Loans From Securities Finance Companies for Margin Transactions
+    Long-Term Debt - Total
+    Provisions - Total
+    Reinsurance Liabilities - Total
+    Reserves - Total (Insurance)
+    Reserves - Untaxed
+    Securities Borrowed and Deposited by Customers
+    Securities Sold Not Yet Purchased
+    Separate Account Liabilities
+    Debt in Current Liabilities - Total
+
+
+Assets - Total
+
+    AT: Assets Total in Millions
+    ATQ: Assets Total Quarterly in Millions
+
+    This item represents the total value of assets reported on the Balance Sheet.
+
+    U.S. GAAP and Canadian IFRS Definition (Canadian GAAP prior to January 1, 2011)
+    This item represents current assets plus net property, plant, and equipment plus other noncurrent assets, including intangible assets, deferred items and investments and advances. The item is the sum of:
+
+    Current Assets - Total (ACT)
+    Property, Plant and Equipment (Net) - Total (PPENT)
+    Investment & Advances - Equity (IVAEQ)
+    Investment & Advances - Other (IVAO)
+    Intangible Assets - Total (INTAN)
+    Assets - Other - Total (AO)
+    International Definition
+
+    Industrial Definition
+    Assets - Total is the sum of:
+
+    Assets - Other - Total (AO)
+    Current Assets - Total (ACT)
+    Property, Plant, and Equipment (Net) - Total (PPENT)
+    Intangible Assets - Total (INTAN)
+    Investments and Advances - Equity Method (IVAEQ)
+    Investments and Advances - Other (IVAO)
+    Financial Services Definition
+    This item is the sum of:
+
+    Accounts Receivable/Debtors - Total (ARTFS)
+    Assets - Other - Total (AO)
+    Cash and Deposits - Segregated (CHS)
+    Cash (CH)
+    Customers' Acceptances (CA)
+    Deferred Policy Acquisition Costs (DFPAC)
+    Property, Plant, and Equipment (Net) Total (PPENT)
+    Foreign Exchange Assets (FEA)
+    Intangibles (INTAN)
+    Inventories/Stocks - Total (INVT)
+    Investment Assets - Total (Insurance) (IATI)
+    Investment Property (IP)
+    Investment Securities - Total (IST)
+    Investments - Permanent - Total (IVPT)
+    Loans/Claims/Advances - Banks and Government - Total (LCABG)
+    Loans/Claims/Advances - Customers - Total (LCUACU)
+    Reinsurance Assets - Total (Insurance) (RATI)
+    Securities In Custody (SC)
+    Separate Account Assets (SAA)
+    Short-Term Investments - Total (IVST)
+    Trading/Dealing Account Securities - Total (TDST)
+
+
+atq: Total Assets (Quarterly) - This represents the total assets of a company as reported in its quarterly financial statements.
+
+ceqq: Common Equity (Quarterly) - This denotes the value of equity held by common shareholders, calculated on a quarterly basis. It is the amount remaining after all liabilities have been deducted from the company's total assets.
+
+cshiq: Common Shares Outstanding (Quarterly) - This indicates the number of common shares that are currently outstanding and held by shareholders, updated quarterly.
+
+cshopq: Common Shares Repurchased (Quarterly) - This refers to the number of common shares that the company has bought back during the quarter.
+
+cshoq: Common Shares Outstanding (Quarterly) - Similar to cshiq, this represents the total number of common shares outstanding, reported quarterly.
+
+cstkq: Common/Ordinary Stock (Quarterly) - This is the value of the company's common or ordinary stock, calculated on a quarterly basis.
+
+ltq: Total Liabilities (Quarterly) - This represents the total liabilities of a company as reported in its quarterly financial statements.
+
+niq: Net Income (Quarterly) - This is the net income of a company, calculated on a quarterly basis. It represents the company's total earnings or profit.
+
+cik: Central Index Key - This is a unique identifier assigned by the SEC to publicly traded companies and individuals who have filed disclosure with the SEC.
+
+costat: Company Status - This variable indicates the status of the company, such as whether it is active or inactive.
+
+mkvaltq: Market Value (Quarterly) - This is the market value of the company, calculated on a quarterly basis. It is often used to measure the company's total market capitalization.
